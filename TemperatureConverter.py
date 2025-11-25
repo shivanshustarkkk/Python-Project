@@ -1,5 +1,5 @@
 # Simple Temperature Converter Program
-# Made for basic Python learning (1st Semester Level)
+
 
 print("----- Temperature Converter -----")
 print("1. Celsius to Fahrenheit")
